@@ -10,6 +10,8 @@ Anyone running more than a handful of things in the cloud hits this. Python is h
 
 ## What I built
 
+![architecture](images/diagram-python-boto3-aws.png)
+
 A set of small scripts, one per fundamental. Each uses cloud-flavored data so the practice carries over to real work.
 
 | File | Concept | AWS-style example |
