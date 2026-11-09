@@ -1,0 +1,6 @@
+/terminal
+/video-assets
+/blog
+/vscode
+.venv/
+__pycache__/
